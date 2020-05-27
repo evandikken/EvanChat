@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "501461432150",
+    "firebase_url": "https://evanchat-ff9f1.firebaseio.com",
+    "project_id": "evanchat-ff9f1",
+    "storage_bucket": "evanchat-ff9f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501461432150:android:29ec17f1c56b0fc4",
+        "android_client_info": {
+          "package_name": "nl.evandikken.evanchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501461432150-gdd909htmn7dqkkrn9oo0seg2ernvif5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nl.evandikken.evanchat",
+            "certificate_hash": "f37dde3073bad4a6b0d4bf14ff3fdcd4b4a56a7a"
+          }
+        },
+        {
+          "client_id": "501461432150-dn8e9b5cmmni2i22dch9gf6t6pp9dva0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXCwQPmhMR3G4qbxEvr-PUG91-GZ9_Ryo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501461432150-dn8e9b5cmmni2i22dch9gf6t6pp9dva0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
